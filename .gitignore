@@ -10,6 +10,7 @@
 
 # production
 /build
+/rusted-creator-win32-x64
 
 # misc
 .DS_Store
